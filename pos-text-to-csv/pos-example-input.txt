@@ -1,0 +1,418 @@
+ka|tam:incpt tunu|v:vt a|det papa|n i|prep:acc te|det mānga|n .|.
+kua|tam:pfv tanu|v:vi aia|pron .|.
+tē|tam:prog no'o|v:vi nei|tam:positional mātou|pron .|.
+kua|tam:pfv 'aere|v:vi viviki|adv mai|dir aia|pron .|.
+kua|tam:pfv 'anga'anga|v:vi aia|pron i|prep:loc te|det 'are|n
+e|det:pred pū'āpi'i|n tāku|det:poss 'anga'anga|n moni|n .|.
+ko|prep:spec tere|n tōna|det:poss ingoa|n .|.
+tei|prep:loc te|det kāinga|n aia|pron .|.
+nō|prep:poss rarotonga|n:nprop mai|dir au|pron .|.
+kua|tam:pfv kai|v:vt ngā|num tamariki|n i|prep:acc te|det poke|n ki|prep:instr te|det tipunu|n .|.
+kua|tam:pfv kai|v:vt te|det ngā|num tamariki|n i|prep:acc te|det poke|n ki|prep:instr te|det tipunu|n .|.
+kua|tam:pfv kainga|v:pass te|det poke|n e|prep:passAgent te|det ngā|num tamariki|n ki|prep:instr te|det tipunu|n .|.
+ka|tam:incpt tanu|v:vt a|det tere|n i|prep:acc te|det taro|n .|.
+kua|tam:pfv tanu|v:vi a|det rolando|n .|.
+ka|tam:incpt 'anga'anga|v:vi a|det tere|n .|.
+ka|tam:incpt tatau|v:vt a|det mama|n i|prep:acc te|det puka|n .|.
+'e|det:pred taote|n a|det mere|n .|.
+e|tam:hab no'o|v:vi ana|tam:hab au|pron i|prep:loc raro|n:nloc i|prep:loc te|det pūrākau|n .|.
+i|tam:past kai|v:vt ana|tam:pfv rātou|pron i|prep:acc te|det taro|n i|prep:loc va'o|n:nloc inana'i|n
+tei|prep:loc roto|n:nloc aia|pron i|prep:loc te|det army|n
+ka|tam:incpt pāpā|v:vt au|pron i|prep:acc te|det kurī|n
+ka|tam:incpt pāpāia|v:pass te|det kurī|n e|prep:passAgent au|pron
+kua|tam:pfv mate|v:vstat te|det kurī|n i|prep:statAgent te|det puaka|n
+i|tam:past pou|v:vstat te|det kai|n i|prep:statAgent a|det rātou|pron i|prep:loc va'o|n:nloc inana'i|n
+i|tam:past kai|v:vt rātou|pron i|prep:acc te|det taro|n i|prep:loc va'o|n:nloc inana'i|n
+e|tam:hab no'o|v:vi ana|tam:hab au|pron ki|prep:loc rarotonga|n:nprop
+e|tam:inch rua|v:vstat vaka|n tei|rel:past tae|v:vi mai|dir
+e|tam:imp no'o|v:vi !|!
+kua|tam:pfv ravea|v:pass te|det kai|n e|prep:passAgent te|det tamāroa|n ra|deictic:3
+apaina|v:pass te|det pi'a|n ē|conj te|det tāpoki|n katoa|adv
+no'o|v:vi ana|tam:hab mātou|pron i|prep:loc titikaveka|n:nprop then|conj 'aere|v:vi mātou|pron i|prep:loc reira|n:nloc ki|prep:goal a|det ma'uke|n:nprop .|.
+e|tam:nonPast roa|v:vstat ake|dir ra|deictic:3 ,|punct 'ua|tam:pfv ravea|v:pass 'aka'ou|adv 'ia|pass mai|dir e|prep:passAgent ngārā|n:nprop nōna|prep:benef:3sg .|. 'oki|v:vi mai|dir ra|deictic:3 i|prep:loc te|det 'āmama|n:nprop 'āore|v:vstat i|tam:past pūruki|v:vt 'ia|pass ana|tam:pfv riro|v:vstat mai|dir ra|deictic:3 i|prep:statAgent a|det Ngāra|n:nprop .|. e|tam:nonPast 30|v:vstat te|det mata'iti|n i|prep:loc tōna|det:poss 'au|n .|. 'o|prep:spec te|det ao|n:nprop te|det ariki|n .|. 'ua|tam:pfv motu|v:vstat tō|det:poss ngāra|n:nprop mangaia|n:nprop i|prep:statAgent a|det Kirikovi|n:nprop .|. e|tam:nonPast 'ā|v:vstat pūruki|n i|prep:loc tōna|det:poss 'au|n ,|punct i|prep:loc Vaitoroa|n:nprop ka|tam:inch ta'i|v:vstat ,|punct i|prep:loc Tāvavi|n:nprop ,|punct ka|tam:inch rua|v:vstat ,|punct i|prep:loc te|det kopā|n ,|punct ka|tam:inch toru|v:vstat .|. kāre|v:vstat 'ua|manner 'e|det:pred mangaia|n:nprop i|tam:past rauka|v:vstat .|.
+'ua|tam:pfv 'aere|v:vi au|pron ki|prep:loc va'o|n:nloc
+kāre|v:vstat e|tam:nonPast ānga|v:vstat te|det moe|n
+ano|v:vi atu|dir tātou|pron ki|prep:goal miti'aro|n:nprop noa|conj:concess atu|conj:concess ki|prep:loc te|det miti'aro|n:nprop ē|comp 'e|det:pred aronga|n 'akateitei|v:vt:attrib mai|dir i|prep:loc a|det mātou|pron i|prep:loc te|det 'enuamanu|n:nprop ,|punct kua|tam:pfv 'akaue|v:vt 'ia|pass rātou|pron kia|comp 'āriki|v:vt ratou|pron i|prep:acc te|det evangeria|n .|
+tēnā|det:dem tuatua|n nō|prep te|det ngenengene|n e|tam:nonPast ta'i|v:vstat taime|n ka|tam:incpt kanga|v:vi tuatua|v:vi:attrib kanga|v:vi mai|dir ra|deictic:3 karanga|v:vt atu|dir rātou|pron i|prep:acc a|det koe|pron 'e|det:pred rupe|n .|.
+kua|tam:pfv 'aere|v:vi atu|dir rāua|pron ki|prep:goal ta'atai|n:nloc .|.
+kua|tam:pfv 'aere'aere|v:vi a|det tangaroa|n:nprop i|prep:loc taua|det:anaph au|num 'enua|n ra|deictic:3 ē|conj ,|punct e|tam:nonPast 'aere|v:vi atu|dir ra|deictic:3 ki|prep:goal runga|n:nloc i|prep:loc te|det rangi|n .|.
+eia'a|v:vstat koe|pron e|tam:nonPast 'akama'ore|v:vt i|prep:acc te|det paka|n !|! e|tam:imp vao'o|v:vi rāi|extmp ē|conj nāna|actEmph rāi|extmp:refl e|tam:nonPast topa|v:vi .|.
+nō|conj te|conj mea|conj kāre|v:vstat 'oki|extmp tā-rātou|det:poss english|n e|tam:hab mako|v:vstat ana|tam:hab .|.
+tangata|n .|.
+tiaki|n .|.
+tei|prep:loc roto|n:nloc a|det tā|n:nprop i|prep:loc te|det tai|n .|.
+ta'i|v:vstat rua|v:vstat toru|v:vstat .|.
+nō|prep:poss raro|n:nloc mai|dir i|prep:loc te|det pū|n 'ara|n tai|n .|.
+tēta'i|det.indefSpec rā|n ,|punct ka|tam:incpt 'aere|v:vi 'oki|extmp rāua|pron ki|prep:goal tēta'i|det.indefSpec ngā'i|n ki|prep:goal tēta'i|det.indefSpec 'enua|n .|.
+auraka|v:vstat e|tam:nonPast 'ōronga|v:vt 'ua|manner atu|dir i|prep:acc tēta'i|det.indefSpec mero|n o|prep:poss tō|det:poss kōtou|pron kōpapa|n 'ei|comp rave|v:vt i|prep:acc te|det kino|n kia|comp 'aka-tupua|v:vt i|prep:acc te|det 'ara|n .|.
+pērā|v:vstat te|det mario|n para|v:vstat:attrib ē|conj te|det tiopu|n vaivai|v:vstat:attrib .|.
+pēnei|adv kua|tam:pfv oti|v:vt pa'a|extmp i|prep:statAgent a|det mama|n mere|n te|det 'ākono|n i|prep:acc te|det tātā'anga|n o|prep:poss te|det reo|n pukapuka|n:nprop .|
+tauturu|n .|.
+tiare|n .|.
+e|det:pred a'a|n ,|punct te|rel:fut ka|rel:fut ui|v:vt 'ia|pass atu|dir ,|punct ki|prep:goal a|det koe|pron ?|?
+ko|prep:spec te|det inapō|n:nloc tā|det:poss mātou|pron tā|det:poss mātou|pron 'iri'irikapua|n nō|prep:poss runga|n:nloc i|prep:loc te|det i|prep:loc te|det i|prep:loc te|det aꞌa|n i|prep:loc te|det taiki|n
+ka|tam:incpt 'apai|v:vt ,|punct a|det pāpa|n ,|punct i|prep:acc te|det vaka|n ,|punct ki|prep:goal roto|n:nloc ,|punct i|prep:loc te|det 'are|n .|.
+ka|tam:incpt kai|v:vt au|pron ,|punct i|prep:acc te|det 'ānani|n .|.
+e|tam:nonPast 'aere|v:vi koe|pron ,|punct e|tam:nonPast repo|v:vi ,|punct ki|prep:loc roto|n:nloc ,|punct i|prep:loc te|det 'are|n iti|v:vstat:attrib .|.
+ka|tam:incpt kanga|v:vi ,|punct tāua|pron ,|punct i|prep:acc te|det pōro|n .|.
+e|tam:imp kau|v:vi kōrua|pron ,|punct ki|prep:loc roto|n:nloc i|prep:loc te|det tai|n !|!
+ka|tam:incpt kanga|v:vi ,|punct tāua|pron ,|punct ki|prep:loc roto|n:nloc ,|punct i|prep:loc te|det tai|n .|.
+tei|prep:loc 'ea|n:nloc te|det kete|n ?|?
+e|tam:hab kai|v:vt ana|tam:hab koe|pron ,|punct 'e|det:pred kava|n ?|?
+aere'aere|v:vi 'ua|manner mai|dir koe|pron ?|?
+ākara|v:vi !|!
+e|tam:imp kanga|v:vi ,|punct e|det:voc ngā|n ,|punct ki|prep:loc roto|n:nloc i|prep:loc te|det tai|n !|!
+e|tam:imp no'o|v:vi ki|prep:loc raro|n:nloc !|!
+e|tam:imp 'aere|v:vi koe|pron e|tam:imp tāma'iti|v:vt i|prep:acc a|det tara|n:nprop .|
+e|tam:imp 'aere|v:vi mai|dir koe|pron kia|tam:opt mirimiri|v:vt au|pron i|prep:acc tō'ou|det:poss vaevae|n .|.
+aere|v:vi mai|dir koe|pron ākōnei|adv ,|punct ka|tam:incpt 'akapā|v:vt mātou|pron i|prep:acc a|det koe|pron .|.
+aere|v:vi ki|prep:loc te|det tai|n koko|v:vstat:attrib
+e|tam:imp 'a'ao|v:vt i|prep:acc te|det meika|n ki|prep:goal roto|n:nloc i|prep:loc te|det reira|det:anaph au|num pi'a|n ,|punct ē|conj ko|prep:spec te|det toetoe|n ,|punct e|tam:imp tari|v:vt nā|prep kotou|pron .|.
+a'ao|v:vt i|prep:acc te|det kāka'u|n tau|v:vstat:attrib nō|prep te|det opati|n kia|tam:opt ranga-tū|v:vstat tō'ou|det:poss tūranga|n ē|conj tā'au|det:poss moni|n 'anga'anga|n .|.
+āe|itj e|det:voc teariki|n:nprop ,|punct 'akarongo|v:vt koe|pron ki|prep:goal a|det mama|n !|!
+e|tam:imp 'akarongo|v:vt koe|pron i|prep:acc tēia|det:dem imene|n mē|cond imene|v:vt 'ia|pass .|.
+tuia|v:pass tō|det:poss 'ei|n kia|tam:opt vave|v:vstat .|.
+kia|tam:des orana|v:vstat e|det:voc mere|n
+kia|tam:des orana|v:vstat e|det:voc moana|n
+kia|tam:des orana|v:vstat moana|n
+kua|tam:pfv tā-manako|v:vt 'ia|pass e|tam:nonPast varu|v:vstat au|num 'uri'ia|n ka|tam:inch tupu|v:vi mai|dir ki|prep:loc tēia|det:dem tua|n o|prep:poss te|det pā|n 'enua|n patipika|n
+kua|tam:pfv tapa|v:vt 'ia|pass ngā|num 'enua|n e|tam:nonPast toru|v:vstat mei|prep te|det reira|det:anaph tuātau|n mai|dir e|tam:nonPast tae|v:vi mai|dir ki|prep:goal tēianei|n:nloc ē|subord ,|punct ko|prep:spec ngā|num pū|n toru|v:vstat:attrib
+ko|prep:spec te|det tamaiti|n matāmua|n a|prep:poss te|det ariki|n ,|punct e|tam:nonPast ta'i|n nga'uru|n ōna|det:poss mata'iti|n kua|tam:pfv mate|v:vstat ,|punct i|prep:statAgent te|det paiki'anga|n mai|dir tēta'i|det.indefSpec toroka|n ē|conj kua|tam:pfv tāki|v:vi nā|prep:trans runga|n:nloc i|prep:loc aia|pron .|.
+ta'i|v:vstat nga'uru|v:vstat pa'a|extmp ōna|det:poss mata'iti|n tōna|det:poss no'o'anga|n ki|prep:loc New|n Caledonia|n 'eā|tag .|.
+kua|tam:pfv tuatua|v:vt 'ia|pass ē|subord tē|tam:prog no'ō|v:vi ra|tam:positional aia|pron i|prep:loc te|det rangi|n tuatoru|n .|.
+ko|prep:spec ia|pron ngā|num tama|n tokotoru|n .|.
+e|tam:imp tu'a|v:vt takirua|v:vstat:attrib koe|pron .|.
+e|tam:hab 'āpi'i|v:vt 'ia|pass ana|tam:hab e|prep:passAgent tōna|det:poss metua|n ki|prep:goal ā-ia|pron .|.
+karanga|v:vi atu|dir i|prep:loc reira|n:nloc au|pron ki|prep:goal ā|det koe|pron .|.
+kua|tam:pfv 'akarongo|v:vt koe|pron i|prep:acc ā-ku|pron i|prep:loc roto|n:nloc i|prep:loc te|det a'ia'i|n i|tam:past tuatua|v:vi nei|deictic:1 .|.
+tae|v:vi mai|dir ki|prep:loc a|det mātou|pron 'e|det:pred tune|n kē|manner .|.
+nā|actEmph 'au|pron e|tam:nonPast arataki|v:vt i|prep:acc a|det tāua|pron .|.
+karanga|v:vi atu|dir i|prep:loc reira|n:nloc mātou|pron :|punct kāre|v:vstat ā|det mere|n i|prep:loc te|det pū'āpi'i|n .|.
+pēnei|adv kua|tam:pfv oti|v:vt pa'a|extmp i|prep:statAgent a|det mama|n mere|n te|det 'ākono|n i|prep:acc te|det tātā'anga|n o|det:poss te|det reo|n pukapuka|n .|.
+kā|tam:incpt tū|v:vi
+kā|tam:incpt pēti|v:vi
+tupu|v:vi
+miri|v:vt
+mana|n
+tangata|n
+ma'ara|v:vt
+va'ine|n
+mokopuna|n
+inangaro|v:vt
+tamariki|n
+pōpongi|n
+tūtaka|v:vt
+vānanga|v:vt
+maunga|n
+tua'ine|n
+pangia|v:pass
+tangata|n
+ma'ara|v:vt
+va'ine|n
+mokopuna|n
+inangaro|v
+tamariki|n
+pōpongi|n
+tūtaka|v:vt
+vānanga|v:vt
+vā'i|v:vt
+kakī|n
+va'ī|v:vt
+pererau|n
+moana|n
+pangia|v:pass
+meitaki|v:vstat
+āpōpō|n
+mūtēkī|v:vstat
+'ārāvei|v:vt
+pūngāverevere|n
+montē|n ma'anapiti|n pureruru|n 'īmene|n varaire|n ma'ana|n tapati|n
+kua|tam:pfv pāpā|v:vt te|det tangata|n nei|deictic:1 i|prep:acc tērā|det:dem tangata|n
+kua|tam:pfv pāpā|v:vt te|det tangata|n i|prep:acc te|det tangata|n ra|deictic:3
+āe|itj 'aere|v:vi atu|dir ra|deictic:3
+kua|tam:pfv ropa|v:vt tātou|pron i|prep:loc reira|n:nloc i|prep:acc te|det tīvaivai|n
+tae|v:vi mātou|pron ki|prep:loc tēta'i|det.indefSpec tua|n kata|v:vi mātou|pron ,|punct kata|v:vi mātou|pron .|.
+kua|tam:pfv kī|v:vstat i|prep:statAgent te|det tangata|n .|.
+tē|tam:prog kai|v:vt nei|tam:positional rātou|pron i|prep:acc te|det poke|n
+tē|tam:prog tunu|v:vt nei|tam:positional rātou|pron i|prep:acc te|det kai|n
+e|tam:hab tanu|v:vi kai|n ana|tam:hab aia|pron
+tei|prep:loc roto|n:nloc aia|pron i|prep:loc te|det 'are|n kai|n
+kua|tam:pfv ta'ero|v:vt 'ia|pass te|det ika|n i|prep:loc te|det kai'anga|n i|prep:acc te|det 'ora|n .|.
+kua|tam:pfv viviki|v:vstat te|det kai|n .|.
+'e|det:pred kai|n tā'ana|v:vstat:attrib tā|det:poss tātou|pron i|prep:loc teia|det:dem rā|n .|.
+e|tam:hab tunu|v:vi kai|n ana|tam:hab aia|pron
+e|tam:hab tunu|v:vt ana|tam:hab aia|pron i|prep:acc te|det kai|n
+'e|det:pred 'are|n kai|n tāpae|v:vt 'ia|pass tērā|pron:dem e|prep:passAgent te|det tangata|n .|.
+'ākara'ia|v:pass nei|deictic:1 te|det topa|n o|prep:poss te|det au|num 'are|n kai-kai|n i|prep:loc rarotonga|n:nprop nei|deictic:1 i|prep:loc tēia|det:dem 'openga|n marama|n .|.
+ko|prep:spec te|det tanu|n kai|n tāna|det:poss 'anga'anga|n .|.
+kua|tam:pfv tanu|v:vt rātou|pron i|prep:acc te|det hu'i|n ē|conj te|det kape|n ,|punct pērā|conj te|det tī|n ,|punct vē'ī|n ,|punct kuru|n ē|conj te|det nū|n .|.
+e|tam:hab 'anga'anga|v:vi ana|tam:hab aia|pron i|prep:loc te|det ngā'i|n tanu|n kai|n .|.
+tē|tam:prog tiaki|v:vi arāpō|n nei|tam:positional au|pron nō|prep te|det tanu-'anga|n i|prep:acc taku|det:poss kūmara|n .|.
+kua|tam:pfv kōputa|v:vt aia|pron i|prep:acc te|det nū|n ki|prep:instr te|det mātipi|n .|.
+kua|tam:pfv no'o|v:vi aia|pron ki|prep:loc raro|n:nloc i|prep:loc te|det pae|n:nloc i|prep:loc a|det mama|n ē|conj kua|tam:pfv 'ākarakara|v:vt 'ua|manner aia|pron i|prep:acc a|det mama|n e|tam:nonPast mātipi|v:vt nei|deictic:1 i|prep:acc tā|det:poss rāua|pron kūmara|n .|.
+pare|v:vt tō'ou|det:poss pare|n .|.
+tē|tam:prog 'ei|v:vt nei|tam:positional au|pron i|prep:acc tōku|det:poss 'ei|n poe|n pārau|n .|.
+kua|tam:pfv tātou|v:vstat tātou|pron .|.
+kua|tam:pfv va'ine|v:vstat nāna|pron:poss e|tam:hab toru|v:vstat ana|tam:hab
+kua|tam:pfv 'apai|v:vt katoa|adv mai|dir te|det au|num teina|n o|prep:poss rū|n:nprop i|prep:acc te|det au|num 'oe|n ,|punct te|det moenga|n 'ei|comp kie|n ,|punct ē|conj kua|tam:pfv 'akatomo|v:vt i|prep:acc tō|det:poss rātou|pron vaka|n ki|prep:instr te|det kai|n ē|conj te|det vai|n .|.
+tēia|pron:dem te|det 'uipā'anga|n mua|n:nloc a|prep:poss te|det 'are|n kōrero|n o|prep:poss 'akatokamanava|n:nprop ē|conj ko|prep:spec tēia|pron:dem te|det ingoa|n o|prep:poss te|det au|num tangata|n tei|rel rave|v:vt i|prep:acc teia|det:dem 'uipā'anga|n .|.
+kua|tam:pfv 'akaue|v:vt atu|dir rāua|pron i|prep:acc tō|det:poss rāua|pron metua|n kia|comp ta'u|v:vt i|prep:acc tēta'i|det.indefSpec a'i|n ma'ata|v:vstat ē|conj kia|comp titiri|v:vt i|prep:acc te|det va'ine|n tāna|rel i|tam:past 'apai|v:vt mai|dir ki|prep:loc roto|n:nloc i|prep:loc taua|det:anaph a'i|n ra|deictic:3 ,|punct nō-te-mea|conj ,|punct 'e|det:pred tuputupuā|n te|det reira|n:nloc nō|prep te|det moana|n ,|punct 'e|det:pred atua|n nō|prep te|det punga|n i|prep:loc roto|n:nloc i|prep:loc te|det tai|n .|.
+mē|cond mako|v:vstat te|det 'āpi'i-'anga|n 'aere|v:vi:attrib mai|dir ki|prep:goal te|det pupu|n rua|v:vstat:attrib .|.
+ka|tam:incpt kōpae|v:vt koe|pron i|prep:acc a|det rātou|pron nō|prep roto|n:nloc mai|dir i|prep:loc tērā|det:dem au|num responsibilities|n .|.
+kua|tam:pfv pāpā|v:vt au|pron i|prep:acc te|det kaingākai|n .|.
+iki|v:vt mai|dir rātou|pron i|prep:acc āku|pron 'ei|comp va'ine|n 'akateretere|v:vt i|prep:acc te|det mānga|n .|.
+kua|tam:pfv 'apai|v:vt aia|pron i|prep:acc te|det puka|n ki|prep:goal āku|pron .|.
+kua|tam:pfv pāpā-ia|v:pass te|det kaingākai|n e|prep:passAgent au|pron .|.
+nō|prep tērā|pron:dem ko|prep:spec au|pron te|det chairman|n 'oki|extmp o|prep:poss te|det mea|n .|.
+kua|tam:pfv ako|v:vt aia|pron i|prep:acc te|det tamaiti|n kia|tam:comp 'aere|v:vi meitaki|v:vstat:attrib ki|prep:goal te|det kāinga|n ma|prep te|det māniania|n kore|v:vstat:attrib .|.
+ka|tam:incpt 'inangaro|v:vt mātou|pron kātoatoa|n i|comp te|comp moe|v:vi kāpiti|adv atu|dir ki|prep:goal aia|pron i|prep:loc te|det pō|n mua|n:nloc .|.
+i|tam:past 'ārāvei|v:vt ana|tam:pfv ,|punct koe|pron i|prep:acc aia|pron ?|?
+ka|tam:incpt 'okona|v:pass e|prep:passAgent ia|pron te|det puaka|n .|.
+ko|prep:spec au|pron e|tam:past pū'āpi'i|v:vi ana|tam:pfv nō|prep te|det 'āpi'i|n ta'i|n ,|punct ko|prep:spec ia|pron 'e|det:pred pū'āpi'i|n nō|prep te|det 'āpi'i|n rua|v:vstat:attrib .|.
+mē|cond 'e|det:pred tangata|n piripou|n roa|v:vstat:attrib kerekere|v:vstat:attrib ,|punct ko|prep:spec au|pron ia|pron .|.
+ko|prep:spec te|det 'anga'anga|n ia|pron:dem a|prep:poss taua|det:anaph maui|n:nprop metua|n ra|deictic:3 .|.
+'e|det:pred paitikara|n tōku|pron:poss .|.
+ka|tam:incpt 'apai|v:vt katoa|adv aia|pron i|prep:acc te|det tero|n a|prep:poss te|det aronga|n ko'i|v:vt moni|n i|prep:loc runga|n:nloc ake|dir i|prep:loc te|det $400,000|n ki|prep:goal runga|n:nloc .|.
+kua|tam:pfv ō|v:vt katoa|adv atu|dir ana|tam:pfv tēta'i|det.indefSpec au|num va'ine|n ki|prep:goal roto|n:nloc i|prep:loc te|det pārimani|n ,|punct ē|conj tei|prep:loc roto|n:nloc rāi|extmp tēta'i|det.indefSpec pae|n i|prep:loc tēianei|n:nloc ,|punct ē|conj ka|tam:incpt ma'ata|v:vstat atu|dir tō|det:poss tēia|det:dem ngā|num rā|n ki|prep:goal mua|n:nloc .|.
+i|prep:loc te|det 'angi'angi-'anga|n te|det matangi|n ,|punct kua|tam:pfv 'uti|v:vt i|prep:acc tō|det:poss rātou|pron kie|n ē|conj kua|tam:pfv 'akatere|v:vi ki|prep:goal uta|n .|.
+'e|det:pred 'ōire|n a|det avarua|n:nprop
+ka|tam:incpt 'ano|v:vi mātou|pron ki|prep:loc avarua|n:nprop
+e|det:pred rānuinui|v:vstat a|det roto|n:nloc
+e|det:pred kivakiva|v:vstat a|det va'o|n:nloc
+e|det:pred meitaki|v:vstat atu|dir a|det roto|n:nloc i|prep:loc a|det va'o|n:nloc
+e|det:pred marama|n mānea|v:vstat a|det mē|n .|.
+e|det:pred mānea|v:vstat tikāi|manner ā|prep:loc konei|n i|prep:loc te|det tapati|n .|.
+ka|tam:incpt 'aka'oro|v:vt a|det tere|n i|prep:acc te|det toroka|n .|.
+kua|tam:pfv ēkōkō|v:vstat a|det maui-mua|n ,|punct kāreka|conj a|det maui-muri|n ,|punct kua|tam:pfv kite|v:vi aia|pron .|.
+ē|conj kia|tam:comp topa|v:vi te|det tamaiti|n ,|punct kua|tam:pfv 'una|v:vt i'o|dir ra|deictic:3 aia|pron i|prep:acc taua|det:anaph tamaiti|n ra|deictic:3 ,|punct kāre|v:vstat i|tam:past 'akakite|v:vt 'ia|pass ki|prep:goal a|det 'ataranga|n:nprop .|.
+kāre|v:vstat a|det viti|n:nprop e|tam:nonPast kauraro|v:vi ki|prep:loc te|det 'akaue-'anga|n a|prep:poss aotearoa|n:nprop kia|comp kiriti|v:vt i|prep:acc te|det kavamani|n 'ikikore|v:vt:attrib 'ia|pass e|prep:passAgent te|det 'iti-tangata|n .|.
+tei|prep:loc tō|det:poss māui|n tae'anga|v:vt atu|dir ki|prep:loc reira|n:nloc tei|prep:loc a|det rātou|pron te|det mana|n i|prep:loc a|det 'avaiki|n kātoatoa|n .|.
+mei|prep te|det toru|n rā|n i|prep:loc tōna|det:poss 'akaruke-'anga|n i|prep:loc a|det rarotonga|n:nprop nei|deictic:1 i|tam:past tae|v:vi ei|pos:anaph aia|pron ki|prep:goal aitutaki|n:nprop .|.
+ko|prep:spec au|pron tērā|pron:dem !|! "|quot i|tam:past nā|det:poss rima|n ei|pos:anaph ma|prep te|det rere|n mai|dir ki|prep:loc runga|n:nloc .|.
+kāre|v:vstat koe|pron e|tam:hab tangi|v:vt ana|tam:hab i|prep:acc a|det tērā|pron:dem ?|?
+ko|prep:spec ia|pron ia|pron:dem .|.
+ko|prep:spec te|det 'akakoro'anga|n ia|pron:dem o|prep:poss te|det 'akairo|n ora-'anga|n .|.
+'e|det:pred taeake|n papa'ā|n tōku|det:poss i|prep:loc roto|n:nloc i|prep:loc te|det motoka|n i|prep:loc tērā|det:dem taime|n .|.
+tēia'a|v:vstat 'oki|extmp tā|det:poss rātou|pron pearl|n mē|cond compare|v:vi au|pron ki|prep:goal tā|det:poss tātou|pron .|.
+kua|tam:pfv 'aere|v:vi atu|dir ra|deictic:3 rāua|pron ma|prep te|det 'enua|n i|prep:loc raro|n:nloc i|prep:loc a|det rāua|pron e|tam:past tae|v:vi atu|dir ra|deictic:3 rāua|pron ki|prep:loc 'avaiki|n ,|punct kua|tam:pfv tūpa'u|v:vt atu|dir ra|deictic:3 i|prep:acc tō|det:poss rāua|pron 'enua|n ki|prep:goal tō|det:poss kae|n .|.
+ko|prep:spec te|det tumu|n ,|punct kāre|v:vstat tō|det:poss rātou|pron au|num 'enua|n 'ōu|v:vstat i|tam:past tu|v:vt 'ia|pass e|prep:passAgent te|det maki|n marēria|n ,|punct ē|conj 'e|det:pred viviki|v:vstat ake|dir te|det tangata|n i|prep:loc te|det ma'ata|n i|prep:loc tō|det:poss te|det au|num 'enua|n mama'ata|v:vstat:attrib ake|dir
+e|det:pred pekapeka|n tēta'i|pron i|prep:loc kō|pron ,|punct nō|prep reira|n:nloc te|det 'akavā|n i|tam:past pū|n ei|pos:anaph .|.
+kua|tam:pfv kite|v:vt atu|dir mātou|pron i|prep:loc runga|n:nloc i|prep:loc te|det pa'īrere|n i|prep:acc taua|det:anaph purūmū|n ra|deictic:3 ,|punct tē|tam:cont tīroa|v:vi 'ua|manner ra|tam:positional mei|prep tēta'i|det.indefSpec 'ope|n o|prep:poss te|det 'enua|n ki|prep:goal tēta'i|det.indefSpec .|.
+mē|cond kāre|v:vstat e|tam:nonPast rauka|v:vstat i|prep:statAgent te|det 'atu|n 'enua|n ē|conj te|det tangata|n tāra'u|n i|comp te|comp 'ārāvei|v:vt atu|dir tēta'i|pron i|prep:acc tēta'i|pron ,|punct 'e|det:pred mea|n tau|v:vstat:attrib kia|comp kāpiki|v:vt rāua|pron i|prep:acc te|det numero|n 0800|v:vstat:attrib .|.
+ko|prep:spec rātou|pron te|det mua|n:nloc i|comp te|comp 'akaāri|v:vt i|prep:acc tēia|det:dem teata|n i|prep:loc konei|n .|.
+e|det:pred peni|n tā'au|pron:poss i|prep:loc kona|pron ?|?
+kua|tam:pfv tāpa'opa'oa|v:vi tēia|det:dem au|num 'apinga|n tunu|v:vi:attrib kai|n ,|punct tērā|pron:dem te|det toe|n i|prep:loc kō|pron .|.
+āe|itj ,|punct āe|n .|. te|det kāinga|n o|prep:poss te|det 'akavā|n nui|v:vstat:attrib ?|? āe|itj tei|prep:loc kō|pron ra|deictic:3 āe|n .|.
+i|prep:loc te|det tae|n ake|dir 'anga|nom a|det māmī|n ki|prep:goal kō|pron i|prep:loc te|det 'aremaki|n ,|punct kāre|v:vstat rāi|extmp aia|pron i|tam:past tuatua|v:vi ana|tam:pfv .|.
+i|tam:past 'ano|v:vi atu|dir pa'a|extmp aia|pron ki|prep:goal te|det 'aremaki|n i|prep:loc ma'uke|n:nprop kāre|v:vstat e|tam:nonPast rauka|v:vstat i|comp te|comp treat|n .|.
+ko|prep:spec te|det au|num tangata|n ka|tam:inch tere|v:vi atu|dir ki|prep:loc miti'aro|n:nprop ka|tam:inch moe|v:vi atu|dir rātou|pron 'okota'i|n pō|n ki|prep:loc reira|n:nloc .|.
+mei|prep reira|n:nloc i|tam:past tae|v:vi atu|dir ra|deictic:3 ki|prep:goal tuatea|n ,|punct kake|v:vi atu|dir ra|deictic:3 ki|prep:goal tukinuku|n ,|punct 'ārāvei|v:vt ake|dir ra|deictic:3 rāua|pron ki|prep:loc reira|n:nloc i|prep:acc a|det tutapu|n .|.
+ei|prep:locFut reira|n:nloc koe|pron ka|tam:incpt 'aere|v:vi mai|dir ei|pos:anaph ,|punct ma|prep te|det 'anga|v:vt i|prep:acc te|det 'akamou|n o|prep:poss kura|n ki|prep:goal ngā|det atua|n .|.
+nō|prep reira|n:nloc ,|punct e|tam:nonPast tau|v:vstat rava|manner kia|tam:opt 'akama'ara|v:vt 'aka'ou|v:vi:attrib 'ia|pass tēia|det:dem au|num ingoa|n .|.
+kua|tam:pfv rave|v:vt mai|dir a|det maru'aka'ita|n i|prep:acc te|det kumete|n poi|n ,|punct kua|tam:pfv tāki|v:vt ki|prep:loc runga|n:nloc ,|punct ē|conj kua|tam:pfv inu|v:vt rapurapu|adv atu|dir ra|deictic:3 i|prep:acc te|det reira|n:nloc .|.
+ko|prep:spec 'ai|n:' tērā|pron:dem ?|? ko|prep:spec inara|n ?|? āe|n .|.
+mei|prep te|det a'a|n:' te|det tū|n o|prep:poss te|det ora'anga|n o|prep:poss te|det 'iti-tangata|n o|prep:poss moturiki|n i|prep:loc te|det au|num tauatini|n mata'iti|n tei|rel topa|v:vi ki|prep:loc muri|n .|.
+tei|prep:loc 'ea|n:' a|det teata|n ?|?
+kia|tam:opt 'akakite|v:vt au|pron ki|prep:goal a|det koe|pron ē|conj ko|prep:spec 'ai|n:' au|pron nō|prep 'ea|n:' mai|dir au|pron 'e|det:pred a'a|n:' tāku|det:rel i|tam:past rave|v:vt i|prep:loc roto|n:nloc i|prep:loc te|det ora'anga|n nei|deictic:1 .|.
+ka|tam:inch 'āite|v:vstat ā|prep:locFut 'ea|n:' tātou|pron mei|prep a|det rātou|pron i|tam:past taia|v:vt 'ia|pass e|prep:passAgent ngāuta|n !|!
+e|tam:hab kai|v:vt ana|tam:hab koe|pron i|prep:acc ēnā|det:dem ngā|num ika|n ,|punct ma|prep tēnā|det:dem meika|n ?|?
+ka|tam:incpt 'ōpara|v:vt a|det Boehner|n ,|punct te|det va'a|n 'akatere'au|n o|prep:poss te|det tua|n pāto'i|n republican|n ,|punct i|prep:acc tēta'i|det.indefSpec kotinga|n tero|n nō|prep te|det aronga|n ona|n mirioni|n kia|tam:opt 'akamata|v:vi ki|prep:loc runga|n:nloc i|prep:loc te|det $|n 1|n mirioni|n .|.
+kua|tam:pfv tanumia|v:pass tēta'i|det.indefSpec rua|n meika|n mario|n rānuinui|v:vstat:attrib
+kua|tam:pfv tokotokoa|v:pass te|det vaka|n e|prep:passAgent rātou|pron ki|prep:goal te|det motu|n .|.
+nā|actEmph 'ai|n:' i|tam:past kai|v:vt i|prep:acc te|det nītā|n ?|?
+nā|actEmph ngangati|n e|tam:nonPast tā|v:vt i|prep:acc a|det tonga'iti|n
+nui|v:vstat ,|punct te|det 'anga'anga|n ,|punct a|prep:poss te|det pū'āpi'i|n ma'ata|v:vstat:attrib .|.
+mānea|v:vstat te|det ripoti|n nō|prep obama|n i|prep:loc tēia|det:dem ngā|num rā|n i|prep:loc tāna|det:poss 'akatere'anga|n .|.
+e|tam:nonPast 'akapē'ea|v:vi ana|tam:hab te|det 'aka'aere'anga|n o|prep:poss te|det tārērē|n 'āpi'i|n o|prep:poss te|det 'openga|n mata'iti|n ?|?
+ko|prep:spec te|det tua|n ta'ito|v:vstat:attrib nō|prep te|det tāia'anga|n o|prep:poss kae|n .|.
+kua|tam:pfv viviki|v:vstat te|det tā|n puaka|n a|prep:poss te|det au|num tamāroa|n .|.
+tē|tam:prog vai|v:vi atu|dir ra|tam:positional te|det ma'ata-'anga|n o|prep:poss te|det tuatua|n nō|prep tō|det:poss rāua|pron tīpū'anga|n i|prep:acc te|det rākau|n .|.
+kua|tam:pfv ū|v:vstat te|det 'auri|n ki|prep:loc runga|n:nloc i|prep:loc te|det papa|n i|prep:loc tōna|det:poss pātia'anga|n i|prep:acc te|det vete|n .|.
+e|det:pred mānea|v:vstat tikāi|manner tōna|det:poss kā'iro'iro-'anga|n i|prep:acc te|det kara|n o|prep:poss te|det taura|n .|.
+e|det:voc pāpā|n ,|punct e|tam:imp tāpeka|v:vt koe|pron i|prep:acc taku|det:poss mōari|n ki|prep:loc runga|n:nloc i|prep:loc tēnā|det:dem 'ātava|n .|.
+'aere|v:vi atu|dir ki|prep:goal va'o|n:nloc ,|punct 'inē|adv .|.
+ko|prep:spec tēta'i|det.indefSpec pae|n:nloc ra|deictic:3 i|prep:loc a|det rātou|pron ,|punct i|tam:past 'aere|v:vi 'aka'ou|v:vi:attrib atu|dir ki|prep:goal te|det 'itinga|n .|.
+ko|prep:spec te|det tamariki|n tei|rel tū|v:vi 'ia|pass e|prep:passAgent tēia|det:dem maki|n ,|punct pēnei|adv ka|tam:incpt ruaki|n rātou|pron ē|conj ka|tam:incpt ngatā|v:vstat i|comp te|comp 'akaea|n mē|cond mare|v:vi rātou|pron .|.
+inārā|conj ,|punct ko|prep:spec te|det nuti|n mataora|v:vstat:attrib ,|punct ka|tam:incpt topa|v:vi te|det ua|n ā|prep:locFut tēia|det:dem ngā|num rā|n ki|prep:loc mua|n:nloc .|.
+e|tam:hab mimi|v:vi 'ua|manner ana|tam:hab pa'a|extmp te|det tamariki|n tamāroa|n ki|prep:loc roto|n:nloc i|prep:loc tō|det:poss rātou|pron ngā'i|n 'āpi'ipi'i'anga|n !|!
+kua|tam:pfv mimia|v:pass e|prep:passAgent te|det pēpe|n te|det ro'i|n .|.
+nā|actEmph 'ai|n:' i|tam:past kai|v:vt i|prep:acc te|det varaoa|n ?|?
+nā|actEmph 'ai|n:' i|tam:past kai|v:vt i|prep:acc te|det tomati|n ?|?
+te|det tōrea|n 'e|det:pred manu|n tērā|pron:dem e|tam:hab no'o|v:vi ana|tam:hab ki|prep:loc te|det ngā'i|n vai|n .|.
+mei|prep reira|n:nloc ,|punct kua|tam:pfv no'o|v:vt 'ia|pass te|det au|num tu'anga|n i|prep:loc va'o|n:nloc mai|dir porinetia|n .|.
+kua|tam:pfv pā'ere|v:vt 'ia|pass te|det kōpū|n o|prep:poss te|det 'oro'enua|n e|prep:passAgent te|det niuniu|n i|prep:loc tōna|det:poss rere'anga|n nā|prep runga|n:nloc ake|dir .|.
+inārā|conj ,|punct kia|tam:opt tae|v:vi ki|prep:loc tēta'i|det.indefSpec rā|n i|prep:loc tōna|det:poss no'o'anga|n ki|prep:loc runga|n:nloc i|prep:loc te|det 'enua|n ,|punct i|prep:loc reira|n:nloc kua|tam:pfv pati|v:vt atu|dir aia|pron ki|prep:goal tāna|det:poss tāne|n ko|prep:spec vaeruarangi|n ka|tam:incpt 'aere|v:vi rāua|pron ko|prep:spec tōna|det:poss taokete|n ka|tam:incpt 'akatoro|v:vt i|prep:acc te|det au|num 'enua|n tei|rel no'o|v:vt 'ia|pass ana|tam:pfv e|prep:passAgent tōna|det:poss metua|n .|.
+e|tam:imp no'o|v:vi e|det:voc mere|n !|!
+aere|v:vi atu|dir ,|punct kāre|v:vstat au|pron e|tam:hab 'inangaro|v:vt i|comp te|comp tangata|n uiui|v:vt:attrib tuatua|n ki|prep:goal āku|pron ,|punct e|tam:nonPast manamanatā|n au|pron .|.
+kua|tam:pfv kai|v:vi rāua|pron ē|conj kia|tam:comp pau|v:vstat ,|punct kua|tam:pfv 'inangaro|v:vt a|det paenui|n i|comp te|comp 'aere|v:vi .|.
+kua|tam:pfv kai|v:vt rātou|pron i|prep:acc te|det ika|n ē|conj kia|tam:comp kī|v:vstat te|det kōpū|n kua|tam:pfv varea|v:pass rātou|pron e|prep:passAgent te|det moe|n .|.
+kua|tam:pfv mate|v:vstat aia|pron .|.
+inārā|conj ,|punct kia|tam:opt mate|v:vstat a|det koitai|n ē|conj maitu|n i|prep:statAgent a|det tauri|n rāua|pron ko|prep:spec teariki|n:nprop teau|n:nprop kua|tam:pfv mataora|v:vstat a|det mana|n
+kua|tam:pfv rave|v:vt kino|adv aia|pron i|acc tā|det:poss mātou|pron kai|n
+nā|actEmph tēia|det:dem tū'anga|n e|tam:hab 'oronga|v:vt ana|tam:hab ki|prep:goal te|det au|pl tangata|n Nutireni|n kātoatoa|n i|comp te|comp tauturu|v:vt i|acc te|det pae|n o|prep:poss te|det ngutu'are|n meitaki|v:vstat:attrib ē|conj te|det tūranga|n ngō'ie|v:vstat:attrib 'ua|manner i|comp te|comp tūtaki|v:vt i|acc taua|det:dem au|pl ngutu'are|n
+kia|tam:opt manuia|v:vi koe|pron
+kia|tam:opt māro'iro'i|v:vstat koe|pron i|comp te|comp rave|v:vt i|acc tā'au|det:poss 'anga'anga.|n
+i|prep:loc a|det piki|n e|tam:nonPast no'o|v:vi nei|deictic:1 i|prep:loc reira|n:nloc kua|tam:pfv rongo|v:vt atu|dir aia|pron i|acc tēta'i|det.indefSpec pārarā|n
+kua|tam:pfv riri|v:vi ma'ata|adv a|det kiu|n:nprop i|prep tōna|det:poss rongo'anga|n ē|subord tē|tam:prog ora|v:vstat rāi|extmp ra|tam:positional a|det varokura|n:nprop
+kua|tam:pfv 'ō|v:vt ake|dir a|det mana|n:nprop i|acc te|det vaka|n ki|prep:goal a|det tangapatoro|n:nprop ma|prep te|det 'akakite|n ki|prep:goal a|det tauri|n:nprop kia|tam:opt āru|v:vi ki|prep:goal 'enuamanu|n:nprop
+ko|prep:spec te|det vaerua|n o|prep:poss tēia|det:dem pati'anga|n kia|tam:opt riro|v:vstat rāi|extmp ē|subord nā|actEmph te|det tū'anga|n o|prep:poss te|det ture|n e|tam:nonPast tā'anga'anga|v:vt i|acc tēia|det:dem moni|n toe|v:vstat:attrib kia|tam:opt kore|v:vstat te|det tū'anga|n o|prep:poss te|det moni|n e|tam:nonPast tuku|v:vt atu|dir i|acc tēia|det:dem moni|n ki|prep:goal tēta'i|det.indefSpec minitiri|n kē|manner atu|dir o|prep:poss te|det kavamani|n .|.
+auraka|v:vstat e|tam:nonPast pēnā|v:vstat mē|cond 'a'aki|v:vi
+kua|tam:pfv kī|v:vstat ia|det:dem kāinga|n i|prep:statagent te|det kai|n kua|tam:pfv pērā|v:vstat 'aere|v:vi 'ua|manner ra|deictic:3 aia,|pron e|tam:past kī|v:vstat 'ua|manner ake|dir taua|det:dem 'enua|n i|prep:statAgent te|det u'i'arakākano|n
+tē|tam:prog a'a|n nei|tam:positional au|pron ?|? tē|tam:prog pu'a|v:vi kāka'u|n
+tei|tam:prog te|det a'a|n a|det mata|n ē|conj tōna|det:poss mama|n ?|?
+kua|tam:pfv pē'ea|n tā'au|det:poss tautai|n ?|? kāre|v:vstat atu|dir kāre|v:vstat mai|dir
+e|tam:hab kimi|v:vt ana|tam:hab rātou|pron ē|subord tē|tam:prog pē'ea|v:vstat nei|tam:positional te|det ora'anga|n o|prep:poss te|det tangata|n i|prep:loc tēia|det:dem tuātau|n ,|punct pērā|conj katoa|conj i|prep:loc tō|det:poss te|det tuātau|n mua|n .|.
+tē|tam:prog 'aka'oki|v:vt 'ua|manner mai|dir nei|tam:positional rāi|extmp rātou|pron i|prep:acc te|det tuatua|n .|.
+kua|tam:pfv pērā|v:vstat 'aere|v:vi 'ua|manner atu|dir ra|deictic:3 rāi|extmp ;|punct e|tam:nonPast tae|v:vi 'ua|manner atu|dir ra|deictic:3 ki|prep:goal roto|n:nloc i|prep:loc te|det 'are|n .|.
+kua|tam:pfv 'aere|v:vi rātou|pron ki|prep:goal ta'atai|n:nloc .|.
+i|tam:past te-reira|det:anaph rā|n kua|tam:pfv 'aere|v:vi rātou|pron ki|prep:goal ta'atai|n:nloc .|.
+āpōpō|n:nloc kua|tam:pfv 'aere|v:vi rātou|pron ki|prep:goal ta'atai|n:nloc .|.
+kua|tam:pfv tae|v:vi mai|dir te|det rongo|n ē|conj kua|tam:pfv mate|v:vstat te|det ariki|n .|.
+kua|tam:pfv rave|v:vt ake|dir ra|deictic:3 a|det tangaroa|n i|prep:acc te|det tamaiti|n ;|punct kua|tam:pfv 'apai|v:vt ;|punct e|tam:nonPast 'aere|v:vi atu|dir ra|deictic:3 ;|punct kua|tam:pfv tuku|v:vt atu|dir ra|deictic:3 ki|prep:goal a|det te|det 'ī'iri|n ē|conj te|det rārama|n .|. kua|tam:pfv rave|v:vt mai|dir ra|deictic:3 rāua|pron i|prep:acc taua|det:anaph tamaiti|n ra|deictic:3 ;|punct kāre|v:vstat rā|extmp ō|det:poss rāua|pron ū|n i|prep:comp te|det:comp 'āngai|v:vi ;|punct kua|tam:pfv 'apai|v:vt atu|dir ra|deictic:3 rāua|pron i|prep:acc te|det tamaiti|n ;|punct kua|tam:pfv tuku|v:vt atu|dir ra|deictic:3 ki|prep:goal roto|n:nloc i|prep:loc tēta'i|det ana|n ;|punct kia|tam:opt inuinu|v:vt 'ua|manner i|prep:acc te|det vai|n e|tam:nonpast ta'eta'e|v:vi mai|dir i|prep:loc roto|n:nloc i|prep:loc te|det mato|n ;|punct vao'o|v:vt 'ua|manner atu|dir ra|deictic:3 i|prep:loc reira|n:nloc taua|det:anaph tamaiti|n ra|deictic:3 kia|tam:opt inuinu|v:vt 'ua|manner i|prep:acc te|det vai|n .|.
+kua|tam:pfv kite|v:vt ana|tam:pfv te|det aronga|n pakari|v:vt:attrib o|prep:poss tēia|det:dem tuātau|n i|prep:loc a|det bond|n james|n .|.
+kua|tam:pfv tuku|v:vt te|det pa'ī|n ki|prep:goal ma'uke|n:nprop ē|conj ka|tam:incpt tae|v:vi āpōpō|n:nloc i|prep:loc te|det pōpongi|n .|.
+mē|cond rave|v:vt kōtou|pron i|prep:acc te|det mea|n tikāi|manner ra|deictic:3 ;|punct 'e|det:pred 'enua|n tō|det:poss kōtou|pron ;|punct ē|conj ka|tam:inch meitaki|v:vstat tō|det:poss kōtou|pron au|num 'uānga|n .|.
+nā|actEmph tēia|det:dem 'akairo|n 'oki|extmp e|tam:nonPast 'akakite|v:vt mai|dir ki|prep:goal a|det tātou|pron ē|tag ;|punct ē|conj ka|tam:incpt 'akaroa'ia|v:vt:pass te|det 'akatangi'anga|n i|prep:loc te|det vōvera|n tei|rel:pst māka'ia|v:vt:pass e|prep:passagent tēia|det:dem 'akairo|n nei|deictic:1 .|.
+i|prep:loc te|det au|num taime|n rava|manner rāi|extmp mē|cond rere|v:vi aia|pron ;|punct ka|tam:incpt topa|v:vi 'ua|manner rāi|extmp aia|pron ki|prep:goal raro|n:nloc .|.
+i|tam:past tō|det:poss rāua|pron no'o'anga|n ;|punct e|tam:nonPast tākinga|v:vt meitaki|v:vstat:attrib ana|tam:hab tēta'i|pron i|prep:acc tēta'i|pron .|. ka|tam:incpt 'ākara|v:vi ē|conj ka|tam:incpt 'ākono|v:vt te|det tungāne|n i|prep:acc te|det tua'ine|n ;|punct ē|conj ka|tam:incpt pērā|v:vstat katoa|adv 'oki|extmp te|det tua'ine|n i|prep:acc te|det tungāne|n .|.
+ka|tam:incpt 'aere|v:vi ana|tam:pfv māua|pron ka|tam:incpt oriori|v:vi nā|prep:trans ta'atai|n:nloc .|.
+ākara|v:vt i|prep:acc te|det vaka|n .|. 'e|det:pred vaka|n tō|det:poss papa|n .|. tei|prep:loc roto|n:nloc te|det vaka|n i|prep:loc te|det tai|n .|. ka|tam:incpt kau|v:vi tāua|pron ki|prep:loc kō|n:nloc i|tam:past te|det vaka|n .|.
+ka|tam:incpt 'aere|v:vi tātou|pron !|!
+tē|tam:prog tū|v:vi nei|tam:positional rātou|pron .|.
+tē|tam:prog tīpū|v:vi raupā|n nei|tam:positional mātou|pron nō|prep:poss te|det maka'atu|n .|.
+e|tam:hab kimi|v:vt ana|tam:hab rātou|pron ē|conj tē|tam:prog pē'ea|v:vstat nei|tam:positional te|det ora'anga|n o|prep:poss te|det tangata|n i|prep:loc tēia|det:dem tuātau|n ;|punct pērā|conj katoa|conj i|prep:loc tō|det:poss te|det tuātau|n mua|n:nloc .|.
+ē|tag tēianei|n:nloc ;|punct tē|tam:prog 'aere|v:vi nei|tam:positional aia|pron ki|prep:goal reira|n:nloc ki|comp te|comp tiki|v:vt i|prep:acc te|det a'i|n .|.
+tē|tam:prog tū|v:vi ra|tam:positional rātou|pron .|.
+tē|tam:prog no'o|v:vi ra|tam:positional ki|prep:goal runga|n:nloc i|prep:loc te|det 'enua|n ko|prep:spec 'avaiki|n tēta'i|det tangata|n tei|rel:pst karanga'ia|v:vt:pass ē|conj ko|prep:spec mariri|n tōna|det:poss ingoa|n .|.
+kua|tam:pfv 'aere|v:vi atu|dir ra|deictic:3 rāua|pron ma|prep te|det 'enua|n i|prep:loc raro|n:nloc i|prep:loc a|det rāua|pron e|tam:nonPast tae|v:vi atu|dir ra|deictic:3 rāua|pron ki|prep:goal 'avaiki|n ;|punct kua|tam:pfv tūpa'u|v:vt atu|dir ra|deictic:3 i|prep:acc tō|det:poss rāua|pron 'enua|n ki|prep:goal tō|det:poss kae|n .|. tē|tam:prog moe|v:vi 'ua|manner ra|tam:positional a|det kae|n ;|punct tē|tam:prog 'eva|v:vi ra|tam:positional .|.
+tē|tam:prog a'a|v:vi na|tam:positional koe|pron ?|punct
+tē|tam:prog a'a|v:vi nei|tam:positional koe|pron ?|punct
+tē|tam:prog auē|v:vt na|tam:positional koe|pron i|prep:acc te|det a'a|n ?|punct
+i|tam:past kai|v:vt ana|tam:pfv au|pron i|prep:acc te|det poke|n .|.
+i|tam:past pū'āpi'i|v:vi ana|tam:pfv a|det tiakana|n:nprop nuraanga|n:nprop ;|punct ē|conj i|tam:past pū'āpi'i|v:vi katoa|adv ana|tam:pfv aia|pron nō|prep te|det tamariki|n 'āpi'i|n tapati|n .|.
+i|tam:past 'aere|v:vi tā'ākā|v:vstat:attrib 'ua|manner mai|dir rāua|pron ki|prep:goal konei|n:nloc ;|punct i|tam:past 'oki|v:vi rāua|pron ma|prep te|det kī|v:vstat .|.
+kāre|v:vstat aia|pron i|tam:past kai|v:vt i|prep:acc te|det poke|n .|.
+nāku|n i|prep:loc kai|v:vt i|prep:acc te|det poke|n .|.
+i|tam:past kai|v:vt ana|tam:pfv au|pron i|prep:acc te|det poke|n .|.
+e|tam:nonPast 'āpi'i|v:vt ana|tam:pfv au|pron i|prep:acc te|det tamariki|n .|. e|tam:nonPast tauturu|v:vt ana|tam:pfv au|pron i|prep:acc te|det pū'āpi'i|n .|. e|tam:nonPast tu'a|v:vt ana|tam:hab au|pron i|prep:acc te|det kai|n .|. e|tam:hab 'anga'anga|v:vi ana|tam:hab au|pron i|prep:loc roto|n:nloc i|prep:loc te|det ōpati|n .|. e|tam:nonPast reka|v:vt ana|tam:hab au|pron i|comp te|comp tatau|v:vi puka|n .|. kāre|v:vstat au|pron e|tam:nonPast reka|v:vt ana|tam:hab i|comp te|comp 'āpi'i|v:vi nūmero|n .|. mataora|v:vstat au|pron i|prep:statAgent te|det 'āpi'i|n nūmero|n i|prep:loc tēia|det:dem pōpongi|n .|.
+e|tam:nonPast no'o|v:vi ana|tam:hab aia|pron ko|prep:spec ia|pron anake|n i|prep:loc roto|n:nloc i|prep:loc tōna|det:poss ngutu'are|n ;|punct i|prep:loc te|det 'ōire|n ko|prep:spec arorangi|n:nprop .|.
+e|tam:nonPast kite|v:vt ana|tam:hab tātou|pron i|prep:acc te|det satellite|n:loan i|prep:loc te|det pō|n .|.
+e|tam:nonPast 'aka'a'ano|v:vt i|prep:acc tēta'i|det mānga|n i|prep:loc te|det ruru|n i|prep:loc tōku|det:poss pona|n
+e|tam:nonPast 'oki|v:vi mai|dir koe|pron āpōpō|n:nloc .|.
+'aere|v:vi mai|dir !|! 'aere|v:vi mai|dir e|tam:nonPast tā|n:nprop !|! 'apai|v:vt mai|dir i|prep:acc te|det kete|n !|!
+kia|tam:des manuia|v:vstat koe|pron ;|punct tō'ou|det:poss rā|n 'ānau|n 'anga|n !|!
+kia|tam:des ma'ana|v:vstat te|det one|n ki|prep:goal runga|n i|prep:loc te|det 'enua|n .|.
+kia|tam:des 'aka|n meitaki'ia|v:pass koe|pron .|.
+kia|tam:des āru|v:vt tō|det:poss mātou|pron aro'a|n i|prep:acc a|det koe|pron .|.
+kia|tam:des 'ārāvei|v:vt viviki|v:vstat:attrib 'aka'ou|v:vi:attrib tātou|pron kātoatoa|adv .|.
+i|tam:past 'ākara|v:vt ana|tam:pfv tātou|pron i|prep:acc tēta'i|det imene|n
+kua|tam:pfv 'aere|v:vi ana|tam:pfv rātou|pron ki|prep:goal te|det au|num 'enua|n e|tam:nonPast manganui|v:vstat i|prep:loc te|det tuatau|n ta'ito|n .|.
+ka|tam:incpt 'aere|v:vi ana|tam:pfv au|pron ki|prep:goal va'o|n:nloc .|.
+kia|cond tae|v:vi 'ua|manner ana|tam:pfv tō'ou|det:poss mata'iti|n ki|prep:goal te|det 18|n ;|punct 'e|det:pred mea|n umuumu|v:vt:attrib ma'ata'ia|v:vstat:attrib kia|tam:opt retita|v:pass koe|pron .|.
+tei|prep:loc te|det kata|v:vt te|det katoatoa|n i|prep:acc aia|pron .|.
+tei|prep:loc runga|n:nloc te|det ma'ata'anga|n o|prep:poss tēia|det:dem aronga|n i|prep:loc tō|det:poss rātou|pron au|num ro'i|n maki|n ;|punct tei|prep:loc te|det moe|v:vi ē|conj tei|prep:loc te|det puka|v:vi .|.
+tei|prep:loc te|det rama|v:vi kaveu|n rāua|pron .|.
+tei|prep:loc te|det vāere|v:vt 'oki|extmp aia|pron i|prep:acc te|det pa'i|n taro|n .|.
+'e|det:pred nui|v:vstat 'ua|manner atu|dir ra|deictic:3 'oki|extmp te|det tourists|n:loan e|tam:nonPast 'aere|v:vi mai|dir ara|deictic:3 ki|prep:goal rapanui|n:nprop .|.
+oh|itj tērā|pron te|det navy|n:loan base|n:loan mānea|v:vstat:attrib roa|manner atu|dir i|prep:loc roto|n:nloc i|prep:loc a|det france|n:nprop kātoatoa|adv .|.
+ko|prep:spec te|det ingoa|n tēia|pron:dem a|det karika|n ariki|n .|.
+ko|prep:spec te|det 'anga'anga|n mua|n:nloc tāna|rel:poss i|tam:past rave|v:vi ko|prep:spec ia|pron 'oki|extmp ko|prep:spec te|det tūtaka|v:vt i|prep:acc te|det 'enua|n .|.
+kua|tam:pfv tātuātau'ia|v:pass e|prep:passAgent chris|n:nprop rātou|pron ko|prep:spec tōna|det:poss au|num 'oa|n rave|n 'anga'anga|n te|det au|num toetoenga|n o|prep:poss mana|n:nprop .|.
+kua|tam:pfv mou|v:vstat ko|prep:spec paremoremo|n:nprop .|. ko|prep:spec te|det toa|n ia|pron o|prep:poss tu|n:nprop tapu|n:nprop .|.
+i|tam:past tatau|v:vt 'oki|extmp a|det mere|n:nprop rāua|pron ko|prep:spec 'ina|n:nprop i|prep:acc tā|det:poss rāua|pron 'īrava|n tāmou|n ngākau|n .|.
+kia|tam:des orana|v:vstat e|det:voc mere|n:nprop .|.
+e|det:voc te|det 'atu|n ;|punct e|det:voc te|det 'atu|n ;|punct kāre|v:vstat āinei|pos mātou|pron i|prep:acc toto'u|v:vi i|prep:loc roto|n:nloc i|prep:loc tō'ou|det:poss ingoa|n ;|punct ē|conj kua|tam:pfv tuaru|v:vt atu|pron i|prep:acc te|det au|num dēmoni|n i|prep:loc roto|n:nloc i|prep:loc tō'ou|det:poss ingoa|n ;|punct ē|conj kua|tam:pfv rave|v:vt i|prep:acc te|det au|num 'akairo|n mana|n 'e|det:pred mānganui|v:vstat i|prep:loc roto|n:nloc i|prep:loc tō'ou|det:poss ingoa|n ?|punct
+'oro|v:vi mai|dir e|det:voc koe|pron !|! ka|tam:incpt 'aere|v:vi tāua|pron ka|tam:incpt 'ākara|v:vi ;|punct i|tam:past nā|prep:poss rima|n:nprop ei|pos:anaph .|.
+ē|voc tinai|n:nprop !|! ka|tam:incpt 'aere|v:vi mai|dir koe|pron ki|prep:goal runga|n:nloc nei|deictic:1 !|!
+māui|n:nprop ē|voc !|! ka|tam:incpt tū|v:vi rā|extmp koe|pron ki|prep:goal runga|n:nloc !|!
+ē|voc māui|n:nprop ē|voc !|! ka|tam:incpt tū|v:vi ra|deictic:3 koe|pron ki|prep:goal runga|n:nloc !|!
+kua|tam:pfv kake|v:vi taua|det:anaph tangata|n ki|prep:goal runga|n:nloc i|prep:loc te|det vaka|n o|prep:poss rata|n:nprop ;|punct ē|conj kua|tam:pfv 'aere|v:vi mai|dir tēta'i|det tangata|n ma|prep te|det ui|v:vi rāi|extmp ;|punct ka|tam:incpt 'aere|v:vi ki|prep:goal 'ea|n te|det tere|n o|prep:poss rata|n:nprop ?|punct
+ko|prep:spec ia|n te|det pū'āpi'i|n māori|n nutireni|n ;|punct māori|n aotearoa|v:vt .|.
+ko|prep:spec pepe'ia|n te|det 'orometua|n i|prep:loc tae|v:vi mai|dir ai|n te|det tuatua|n i|prep:loc te|det mata'iti|n 1822|n .|.
+'e|det:pred manu|n tangi|n turituri|n te|det kāveka|n .|.
+kua|tam:pfv pātē|n mai|dir te|det tangata|n ruku|n kōpūpū|n ē|conj kua|tam:pfv kī|n te|det pakete|n i|prep:loc te|det pārau|n .|.
+kāre|v:vstat 'e|det:pred tangata|n ;|punct 'e|det:pred tamariki|n ;|punct mōmē|n tai|n ?|n
+tō|det:poss rātou|pron manako'anga|n ē|conj ka|tam:incpt kī|n te|det kōpū|n i|prep:loc te|det vī|n puaka|n pī|v:vstat:attrib kua|tam:pfv oro'ia|v:pass ;|punct pērā|v:vstat te|det mario|n para|v:vstat:attrib ē|conj te|det tiōpu|n vaivai|v:vstat:attrib .|.
+kua|tam:pfv tātīpoki'ia|v:pass te|det vaka|n kia|tam:opt kore|v:vt e|tam:nonPast kī|v:vstat i|prep:statagent te|det ua|n .|.
+'e|det:pred au|num karere|n 'oki|extmp tā|det:poss te|det tipatimani|n o|prep:poss te|det vai|n e|tam:nonPast 'apai|v:vt mai|dir nei|deictic:1 ki|prep:goal runga|n:nloc i|prep:loc tā|det:poss tātou|pron ratio|n ē|conj pērā|conj te|det au|num nuti|n pepa|n ē|conj te|det tv|n (sic)|n nō|prep tēia|det:dem au|num 'akamaro'iro'i'anga|n a|prep:poss te|det 'iti|n tangata|n kia|tam:opt tā'anga'anga|v:vt meitaki|v:vstat:attrib i|prep:acc te|det vai|n e|tam:nonPast auraka|v:vstat e|tam:nonPast kaimoumou|v:vi 'ua|manner .|.
+'e|det:pred ma'ata|v:vstat te|det tamariki|n e|tam:nonPast ngatā|v:vstat ana|tam:hab i|prep:acc tēta'i|det o|prep:poss tēia|det:dem au|num tū'anga|n e|tam:nonPast toru|v:vstat ;|punct inārā|conj ;|punct ko|prep:spec te|det tamariki|n tei|rel:pst tū'ia|v:pass e|prep:passAgent te|det asd|n:loan ;|punct ka|tam:incpt ngatā|v:vstat rātou|pron i|prep:statagent tēia|det:dem au|num tū'anga|n katoatoa|adv e|tam:nonPast toru|v:vstat .|.
+taria|v:pass mai|dir kia|tam:opt ra'i|v:vstat te|det toka|n .|.
+kua|tam:pfv takataka'i|v:vt aia|pron i|prep:acc te|det tiare|n .|.
+ka|tam:incpt pē'ipē'i|v:vt 'ua|manner 'oki|extmp koe|pron i|prep:acc tēia|det:dem mea|n .|.
+tē|tam:prog kave|v:vt nei|tam:positional koe|pron i|prep:acc tēnā|det:dem mea|n ki|prep:goal 'ea|n ?|punct
+tiki|v:vt i|prep:loc reira|n:nloc i|prep:acc tērā|det:dem mea|n nunui|v:vstat:attrib .|.
+mē|cond motu|v:vstat ia|det:dem taura|n ;|punct e|tam:nonPast tāmou|v:vt 'ei|comp taura|n 'ōu|v:vstat:attrib .|.
+nā|prep:poss na|pron 'oki|extmp ia|det:dem 'apinga|n ;|punct
+ko|prep:spec tēta'i|det puka|n mānea|v:vstat:attrib te|det reira|n:nloc i|prep:loc roto|n:nloc i|prep:loc te|det tuatua|n tapu|n māori|n .|.
+kua|tam:pfv 'iki|v:vt rātou|pron i|prep:acc tēta'i|det 'aka'aere|n 'ōu|v:vstat:attrib i|prep:loc te|det 'āpikē'anga|n te|det manako|n o|prep:poss te|det 'aka'aere|n mua|n:nloc .|.
+e|tam:nonPast kite|v:vt atu|dir ra|deictic:3 aia|pron i|prep:acc tēta'i|det mea|n tamaiti|n varevare|n ;|punct kia|tam:opt 'ākara|v:vi aia|pron ko|prep:spec te|det tūtū|n o|prep:poss taua|det:anaph tamaiti|n āna|pron:poss ra|deictic:3 .|.
+kua|tam:pfv 'akavaitata|v:vt atu|dir ra|deictic:3 aia|pron ki|prep:goal tōna|det:poss pae|n ;|punct kua|tam:pfv ui|v:vi atu|dir ra|deictic:3 ;|punct "|quot nā|prep:poss 'ai|n koe|pron ?|punct "|quot tērā|pron:dem tā|det:poss taua|det:anaph mea|n tamaiti|n ra|deictic:3 ;|punct "|quot nā|prep:poss moenau|n:nprop .|. "|quot
+kua|tam:pfv mataora|v:vstat tōna|det:poss ngākau|n i|prep:statAgent te|det au|num va'ine|n mānea|v:vstat:attrib o|prep:poss te|det reira|n:nloc 'enua|n ē|conj kua|tam:pfv ui|v:vi atu|dir aia|pron ki|prep:goal te|det ariki|n i|prep:acc te|det va'ine|n mānea|v:vstat:attrib rava|manner atu|dir .|.
+'e|det:pred a'a|n te|det au|num manako|n nō|prep runga|n:nloc i|prep:loc te|det reira|n:nloc 'akakoro'anga|n te|rel:fut ka|ref:fut tau|v:vstat kia|tam:opt tāuru'ia|v:pass ki|prep:goal roto|n:nloc i|prep:loc te|det imene|n ?|punct
+kua|tam:pfv oti|v:vstat tēta'i|det pae|n o|prep:poss tā|det:poss māui|n:nprop 'anga'anga|n ra|deictic:3 ;|punct ē|conj tē|tam:prog 'aere|v:vi nei|tam:positional aia|pron ki|comp te|comp rave|v:vt i|prep:acc tēta'i|det pae|n ;|punct ko|prep:spec ia|pron ko|prep:spec te|det kimi|n i|prep:acc te-mokoroa-i-ata|n:nprop .|.
+ko|prep:spec tō|det:poss runga|n tua|n tēnā|pron ;|punct tēia|pron tō|det:poss raro|n .|.
+kia|tam:opt oti|v:vstat tō|det:poss te|det ta'unga|n pure|n 'anga|n ki|prep:goal tōna|det:poss atua|n ;|punct kua|tam:pfv 'akakite|v:vt mai|dir tōna|det:poss atua|n i|prep:acc te|det tika|n .|.
+'akamāro'iro'i|v:vt 'ua|manner rāi|extmp māua|pron i|prep:acc tā|det:poss māua|pron 'are|n mokopuna|n .|.
+tō|det:poss māua|pron manako|n rāi|extmp i|prep:acc tērā|det 'irinaki|n 'anga|n tērā|pron e|tam:nonPast 'akaora'ia|v:pass tō|det:poss tātou|pron reo|n .|.
+e|tam:nonPast ono|v:vstat ā|det:poss māua|pron tamariki|n .|.
+tei|prep:loc roto|n:nloc 'ua|manner i|prep:loc tōna|det:poss 'are|n a|prep:poss ngata|n:nprop ariki|n:nprop .|.
+e|tam:nonPast toru|v:vstat rāi|extmp epetoma|n i|prep:loc muri|n:nloc mai|dir kua|tam:pfv mangiō|v:vstat tikāi|manner tōku|det ūpoko|n .|.
+e|tam:nonPast kana|v:vt koe|pron i|prep:acc tā'au|det:poss 'akari|n ki|prep:goal roto|n:nloc i|prep:loc te|det kumete|n .|.
+ko|prep:spec rangi|n:prop tōku|det:poss ingoa|n .|.
+ko|prep:spec rangi|n:nprop taku|det:poss ingoa|n .|.
+kua|tam:pfv tae|v:vi mai|dir tā'au|det:poss tamā'ine|n .|.
+kua|tam:pfv tae|v:vi mai|dir to|det:poss tamā'ine|n .|.
+'e|det:pred meitaki|v:vstat tōna|det:poss pātikara|n matīni|n .|.
+'e|det:pred meitaki|v:vstat tana|det:poss pātikara|n matīni|n .|.
+nō|prep:poss roto|n:nloc mai|dir i|prep:loc tē'ea|det tuatua|n papa'ā|n tā|det:poss te|det māori|n ingoa|n ko|punct tamati|n ?|punct
+ko|prep:spec tē'ea|n tā|n ngā|num e|tam:nonPast 'inangaro|n nei|tam:pres i|prep:acc te|det kai|n nā|pron mua|n:nloc ko|prep:spec te|det puaka|n ;|punct mē|cond ko|prep:spec te|det roto|n:nloc puaka|n ?|punct
+kua|tam:pfv 'ēkōkō|v:vstat a|det ruāriki|n:nprop mē|cond ki|prep:goal tē'ea|pron aia|pron mē|cond ki|prep:goal tē'ea|pron .|.
+kua|tam:pfv 'āpi'i|v:vt tōku|det:poss ngā|num metua|n i|prep:acc āku|pron ē|conj 'e|det:pred 'anga'anga|n kino|v:vt:attrib te|det keiā|n .|.
+'apai|v:vt te|det tokorua|n o|prep:poss obama|n:nprop i|prep:acc tā|det:poss rāua|pron ngā|num tamariki|n nō|prep:poss tēta'i|det epetoma|n ki|prep:goal afrika|n:nprop ;|punct 'ei|comp 'akaāri|v:vt i|prep:loc te|det ngari|n ē|conj te|det ipukarea|n o|prep:poss tō|det:poss rāua|pron metua|n rongonui|n .|.
+kua|tam:pfv karanga'ia|v:pass ē|conj ;|punct 'e|det:pred ngā|num toa|n 'uritumu|n ia|pron o|prep:pres te|det 'enua|n nei|deictic:1 .|. ko|prep:spec tō|det:poss rāua|pron ingoa|n ;|punct ko|prep:spec ure'ia|n:nprop ē|conj ngātipa'aki|n:nprop .|.
+i|prep:loc te|det tuātau|n mua|n:nloc tē|tam:prog no'o|v:vi nei|deictic:1 tēia|det tangata|n ;|punct ko|prep:spec ia|pron 'oki|extmp ko|prep:spec taratoa|n:nprop ;|punct e|tam:nonPast riro|v:vstat ana|tam:hab nāna|actemph e|tam:nonPast tiaki|v:vt ana|tam:hab i|prep:acc tēia|det ngā|num 'enua|n e|tam:nonPast toru|v:vstat ;|punct ko|prep:spec ia|pron 'oki|extmp ko|prep:spec 'atiu|n:nprop ;|punct miti'aro|n:nprop ;|punct ē|conj ma'uke|n:nprop .|.
+tei|prep:loc afghanistan|n:nprop ;|punct 'e|det:pred va'e'au|n aia|pron .|. tei|prep:loc roto|n:nloc aia|pron i|prep:loc te|det army|n:loan but|conj:loan i|prep:loc tēia|det ngā|num mata'iti|n ā|itj nā|prep:poss roto|n:nloc mai|dir 'oki|extmp aia|pron i|prep:loc reira|n:nloc i|tam:past kite|v:vt aia|pron nā|prep:trans runga|n:nloc i|prep:loc te|det pākau|n 'oki|extmp a|prep:poss te|det papa'ā|n nei|deictic:1 ara|deictic:3 internet|n:loan .|.
+kua|tam:pfv no'o|v:vi aia|pron ki|prep:goal raro|n:nloc kua|tam:pfv tākave|v:vt i|prep:acc te|det 'are|n ki|prep:goal ngā|det rima|n ē|conj ngā|det vaevae|n .|.
+e|tam:nonPast 'oki|v:vi ;|punct kāre|v:vstat e|tam:nonPast rauka|v:vstat a|det rori|n:nprop ;|punct kua|tam:pfv mou|v:vstat ngā|det tāmaka|n o|prep:pres rori|n:nprop .|.
+kua|tam:pfv teretere|v:vi aia|pron nā|prep:trans roto|n:nloc i|prep:loc te|det patipika|n ;|punct ē|conj kua|tam:pfv nene'i|v:vt 'aere|v:vi i|prep:acc te|det au|num 'akairo|n ē|conj te|det au|num 'apinga|n tei|rel:pst ma'ani'ia|v:pass i|prep:loc te|det tuātau|n mua|n:nloc .|.
+ka|tam:incpt 'akapē'ea|v:vt mē|cond ka|tam:incpt tieni|v:vi ake|dir tōku|det:poss au|num tūranga|n no'o'anga|n ?|punct
+mei|prep:loc te|det mea|n 'e|punct mānea|v:vstat tēia|det au|num mea|n e|tam:nonPast toru|v:vstat ;|punct ka|tam:inch riro|v:vstat mai|dir i|prep:loc reira|n:nloc te|det reira|n:nloc imene|n 'ei|comp imene|n mānea|v:vstat ;|punct 'ei|comp imene|n te|rel:fut ka|rel:fut vai|v:vi e|tam:nonPast roa|v:vstat 'ua|manner atu|dir te|det tuātau|n .|.
+kua|tam:pfv 'aka'ārāvei'ia|v:pass mai|dir te|det au|num tamā'ine|n e|tam:nonPast rima|v:vstat te|rel:fut ka|rel:fut piri|v:vt atu|dir ki|prep:goal roto|n:nloc i|prep:loc te|det tārērē|n mā'ine|n tiare|n o|prep:pres tēia|n mata'iti|n i|prep:loc te|det reira|n:nloc rā|n katoa|adv .|.
+ko|prep:spec te|det au|num 'anga'anga|n tāna|rel:poss i|prep:loc rave|v:vt ;|punct 'e|det:pred au|num mea|n te|det reira|n:nloc ka|tam:incpt kata|v:vi tāua|pron ;|punct 'e|det:pred 'anga'anga|n mei|prep:loc tā|det:poss te|det nēneva|n rāi|extmp te|det tū|n .|.
+mē|cond kaikai|v:vt kāpiti|v:vt rāua|pron i|prep:loc te|det au|num a'ia'i|n ;|punct 'e|det:pred au|num kai|n mēmeitaki|v:vstat anake|n tā|det:poss rāua|pron e|tam:hab kai|v:vt ana|tam:hab .|.
+|quot e|tam:hab kai|v:vt ana|tam:hab koe|pron i|prep:acc ēnā|det ngā|num ika|n mā|prep tēnā|det meika|n ?|punct |quot .|.
+kua|tam:pfv 'oki|v:vi mārie|v:vstat:attrib atu|dir aia|pron ki|prep:goal te|det kāinga|n ma|prep te|det 'apai|v:vt meitaki|v:vstat atu|dir i|prep:loc te|det vai|n .|.
+kāre|v:vstat te|det tangata|n mako|v:vstat:attrib e|tam:nonPast 'aka'oro|v:vi viviki|v:vstat:attrib ana|tam:hab ?|punct
+kua|tam:pfv kereita'ia|v:pass te|det ngā'i|n 'akatō'anga|n pa'ī|n rere|n kia|tam:opt tika|v:vstat .|.
+kua|tam:pfv pō'itirere|v:vstat rava|manner a|det teatuatima|n:nprop i|prep:statagent tēia|det tū|n ;|punct ma|prep te|det kore|v:vstat roa|manner aia|pron i|tam:past manako|v:vi ana|tam:pfv ē|conj ;|punct ka|tam:incpt tamaki|v:vt te|det au|num va'ine|n i|prep:acc a|det rātou|pron .|.
+kua|tam:pfv 'iki'ia|v:pass 'oki|extmp rāua|pron 'ei|comp mata|n ;|punct ē|conj 'ei|comp tauturu|v:vt i|prep:acc te|det katoatoa|n rava|manner i|prep:loc te|det reira|n:nloc oire|n .|.
+ko|prep:spec ia|pron te|det va'ine|n pakari|v:vstat:attrib rava|manner atu|dir i|prep:loc te|det kuki|n airani|n kātoatoa|adv .|.
+ko|prep:spec te|det mea|n mua|n:nloc meitaki|v:vstat:attrib rava|manner atu|dir tā|rel:poss kōrua|pron e|tam:nonPast rave|v:vt ;|punct ko|prep:spec te|det komakoma|n kāpiti|n i|prep:acc te|det manamanatā|v:vstat tei|rel:pst tupu|v:vi .|.
+ka|tam:incpt 'inangaro|v:vt tikāi|manner au|pron i|prep:acc a|det koe|pron kia|tam:opt tae|v:vi koe|pron ki|prep:goal te|det reira|n:nloc taime|n
+ko|prep:spec te|det 'enua|n pare'au|n tikāi|manner tēia|pron nō|prep:poss te|det au|num ariki|n rava|manner rāi|extmp ;|punct nō|prep:poss tēia|n nei|deictic:1 'enua|n mato'a|v:vstat:attrib 'aere|v:vi mai|dir ei|pos:anaph ki|prep:goal te|det pā|n 'enua|n kātoatoa|adv .|.
+nō|prep:poss toko|n:nprop te|det vai|n pā'ī|n i|prep:loc tuatua'ia|v:pass ai|pos:anaph ē|conj ;|punct ko|prep:spec vai-o-toko|n:nprop ;|punct ko|prep:spec ia|pron vai-toko|n:nprop .|.
+'e|det:pred ma'ata|v:vstat 'ua|manner atu|dir rāi|extmp te|det aronga|n te|det tāne|n tikāi|manner e|tam:nonPast 'akaputu|v:vt ana|tam:hab i|prep:acc tō|det:poss rātou|pron riri|n i|prep:loc te|det tuātau|n rangimarie|n ;|punct ē|conj kia|tam:opt tae|v:vi ki|prep:goal te|det tuātau|n kai'anga|n kava|n ;|punct kua|tam:pfv 'akariro|v:vt rātou|pron .|.
+kua|tam:pfv 'oe|v:vi 'ua|manner atu|dir rāi|extmp aia|pron ma|prep te|det 'ākara|v:vi tika|v:vstat:attrib 'ua|manner ki|prep:goal mua|n:nloc .|.
+nō|prep:poss tōku|det:poss 'akamā|n ;|punct kua|tam:pfv 'īpana|v:vt ngaro|v:vstat:attrib 'ua'ia|manner:pass atu|dir tēia|det kutu|n ki|prep:goal va'o|n:nloc ake|dir i|prep:loc te|det motoka|n .|.
+ko|prep:spec tēia|pron 'ua|manner i|prep:loc reira|n:nloc tāna|det:poss pa'u'anga|n .|.
+ka|tam:incpt pāpā|v:vt au|pron i|prep:acc a|det koe|pron mē|cond 'ārarau|v:vi koe|pron ki|prep:goal tēta'i|det 'apinga|n 'ua|manner atu|dir i|prep:loc runga|n:nloc i|prep:loc tēia|det pā'ata|n .|.
+ko|prep:spec te|det tuatua|n meitaki|v:vstat roa|manner atu|dir ko|prep:spec ia|pron 'oki|extmp kia|tam:opt 'akariro'ia|v:pass aia|pron 'ei|comp tangata|n ;|punct auraka|v:vstat ki|prep:goal tōna|det:poss tū|n pakipakitai|n .|.
+nā|prep:poss rātou|pron te|det 'apinga|n mānea|v:vstat:attrib roa|manner atu|dir i|prep:loc tōku|det manako|n 'anga|n .|.
+inārā|conj ;|punct i|prep:loc te|det kite'anga|n o|prep:pres akaina|n:nprop i|prep:loc tēia|det va'ine|n kua|tam:pfv 'ati|v:vstat roa|manner tōna|det:poss ngākau|n i|prep:statagent te|det 'inangaro|v:vt i|prep:acc tēia|det va'ine|n .|.
+ka|tam:incpt pati|v:vi roa|manner koe|pron ki|prep:goal te|det ariki|n o|prep:pres tērā|det 'ōire|n kia|tam:opt 'akatika'ia|v:pass koe|pron kia|tam:opt tomo|v:vi atu|dir ki|prep:goal roto|n:nloc i|prep:loc reira|n:nloc .|.
+i|prep:loc reira|n:nloc kua|tam:pfv motu|v:vstat a|det rarotonga|n:nprop ;|punct kua|tam:pfv topa|v:vi kē|manner ;|punct ē|conj nō|prep reira|n:nloc i|tam:past tuatua'ia|v:pass ko|prep:spec rarotonga|n:nprop ;|punct nō|prep te|det mea|n nō|prep runga|n:nloc mai|dir .|.
+kia|cond pōpongi|v:vi ake|dir ;|punct kua|tam:pfv 'aere|v:vi kē|manner atu|dir te|det au|num teina|n o|prep:pres rū|n:nprop i|comp te|comp kimi|v:vi 'enua|n nō|prep rātou|pron .|.
+tēia|pron katoa|adv tēta'i|det au|num tū'anga|n kē|manner o|prep:pres tēia|det rorouira|n 'ātuitui|n tei|prep:loc reira|n:nloc tēta'i|det au|num tuatua|n 'akakitekite|v:vt:attrib kē|manner i|prep:loc roto|n:nloc i|prep:loc te|det reo|n māori|n kuki|n airani|n .|.
+kua|tam:pfv 'aere|v:vi atu|dir rātou|pron ki|prep:goal tēta'i|det au|num ana|n kē|manner atu|dir .|.
+kua|tam:pfv mā'ū|v:vstat tākiri|manner aia|pron i|prep:statagent te|det ua|n .|.
+kāre|v:vstat i|prep:loc reira|n:nloc te|det reo|n tahiti|n:nprop i|prep:loc te|det reo|n 'ōu|v:vstat:attrib tākiri|manner ki|prep:goal a|det tapairu|n:nprop ariki|n:nprop .|.
+kua|tam:pfv 'aka'unga'ungā|v:vi tītī|n rava|manner roa'ia|manner:pass tōna|det:poss nuku|n va'e'au|n .|.
+kāre|v:vstat nō|prep kōtou|pron taua|det:anaph au|num tuatua|n ra|deictic:3 ;|punct nō|prep tēta'i|det aronga|n kē|manner tākiri|manner .|.
+'e|det:pred tūmatetenga|v:vstat ma'ata|v:vstat:attrib tō|det:poss tapairu|n:nprop ariki|n:nprop ē|conj mata|n:nprop i|conj te|conj mea|conj tei|prep:loc tēta'i|det 'enua|n kē|manner 'ua|manner rāua|pron i|prep:loc teianei|n .|.
+kua|tam:pfv auē|v:vi rānuinui|v:vstat:attrib aia|pron ;|punct e|tam:nonPast oti|v:vstat ;|punct rere|v:vi atu|dir ei|pos:anaph ki|prep:goal runga|n:nloc i|prep:loc te|det pū|n i'i|n .|.
+i|tam:past 'ākarakara|v:vt rātou|pron i|prep:acc te|det manu|n e|tam:nonPast rere|v:vi mai|dir ra|deictic:3 mei|prep:loc uta|n:nloc ki|comp te|comp kimi|v:vt ika|n .|.
+mē|cond reira|n:nloc ;|punct kua|tam:pfv 'aere|v:vi ki|prep:goal 'avaiki|n:nprop runga|n:nloc ;|punct ē|conj ki|prep:goal te|det pā|n 'enua|n kātoatoa|adv e|tam:nonPast pini|v:vi 'ua|manner ake|dir .|.
+kua|tam:pfv tupu|v:vi i'o|dir ra|deictic:3 te|det tamaki|n i|prep:loc reira|n:nloc ;|punct kua|tam:pfv rere|v:vi mai|dir a|det mu'u|n:nprop tokerau|n:nprop ;|punct ē|conj mu'u|n:nprop tonga|n:nprop kua|tam:pfv rere|v:vi i'o|dir ra|deictic:3 i|comp te|comp 'oko|v:vi 'itu|n ;|punct ka|tam:incpt tamaki|v:vi nō|prep te|det 'au|n ;|punct
+kua|tam:pfv 'eke|v:vi iꞌo|dir ra|deictic:3 te|det au|num tangata|n tei|rel:pst piri|v:vt mai|dir ki|prep:loc a|det pā|n .|.
+kua|tam:pfv tuku|n 'ua|manner a'o|n aia|pron i|prep:acc taua|n 'apinga|n ki|prep:goal roto|n:nloc i|prep:loc te|det pi'a|n i|prep:loc 'aruru|n ei|n:nprop .|.
+kua|tam:pfv no'o|v:vi mai|dir ra|tam:positional aia|pron ki|prep:goal ō|det:poss tinirau|n:nprop ;|punct e|tam:nonPast ngātata|v:vstat ake|dir pa'a|extmp te|det no'o'anga|n kua|tam:pfv 'āriuriungatā|v:vstat aia|pron nō|prep te|det roa|n o|prep:pres te|det no'o'anga|n ;|punct
