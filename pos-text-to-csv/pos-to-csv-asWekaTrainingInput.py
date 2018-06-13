@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
 
 	output = title + output
-	open("pos-pre-weka-prepared.csv", "wb").write((output.encode('utf-8','replace')))
+	open("weka-pos-training-set.csv", "wb").write((output.encode('utf-8','replace')))
 
 
 	#for word in words:
